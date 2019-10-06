@@ -1,0 +1,14 @@
+{
+  "name": "static-site-template",
+  "version": "1.0.0",
+  "description": "Static Site Templates\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[Dgithub\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[G\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[D\u001b[D\u001b[D\u001b[C\u001b[Dstatic site template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shawn M.",
+  "license": "ISC",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.9.0"
+  }
+}
