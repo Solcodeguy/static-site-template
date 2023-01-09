@@ -9,6 +9,6 @@
   "author": "Shawn M.",
   "license": "ISC",
   "devDependencies": {
-    "@11ty/eleventy": "^0.9.0"
+    "@11ty/eleventy": "^1.0.2"
   }
 }
